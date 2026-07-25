@@ -1,11 +1,11 @@
- PASSWORD MANAGER WITH ENCRYPTION
+PASSWORD MANAGER WITH ENCRYPTION
+
+Intern ID: CITS7765
 
 Project Overview:
-
 The Password Manager with Encryption is a secure, professional-grade password management application that stores and manages your passwords with military-grade encryption. It provides a safe way to store, generate, and manage all your passwords with advanced security features.
 
 Key Features
-
 Advanced Encryption
 - **AES-256-CBC Encryption** - Military-grade encryption
 - **PBKDF2 Key Derivation** - 100,000 iterations
